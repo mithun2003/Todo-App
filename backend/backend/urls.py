@@ -22,3 +22,4 @@ urlpatterns = [
     path('todo_api/', include('todo_api.urls')),
     path('', include('user.urls'))
 ]
+# urlpatterns+=staticfiles_urlpatterns()
