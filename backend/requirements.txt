@@ -2,7 +2,7 @@ asgiref==3.6.0
 asttokens==2.2.1
 backcall==0.2.0
 decorator==5.1.1
-Django==4.1.5
+Django
 django-cors-headers==3.13.0
 django-environ==0.9.0
 djangorestframework==3.14.0
@@ -26,3 +26,4 @@ sqlparse==0.4.3
 stack-data==0.6.2
 traitlets==5.9.0
 wcwidth==0.2.6
+gunicorn
