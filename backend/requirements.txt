@@ -7,7 +7,7 @@ django-cors-headers==3.13.0
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
 executing==1.2.0
-ipython==8.9.0
+ipython
 jedi==0.18.2
 matplotlib-inline==0.1.6
 mysqlclient==2.1.1
